@@ -23,7 +23,7 @@ Em caso de dúvidas não contempladas por essas instruções básicas, entre em 
 
 | nome da pasta | responsável | quantidade de fotos (pré-processamento) | quantidade de fotos (pós processamento) | quantidade de fotos eliminadas | link para a pasta original | link para a pasta (pós processamento) |
 |---------------|-------------|------------------------------------------|------------------------------------------|--------------------------------|-----------------------------|----------------------------------------|
-| CH            |  Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
+| CH            |  Leticia P. | 29                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CG            |  Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CF            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
 | CE            | Content Cell | Content Cell                             | Content Cell                             | Content Cell                   | Content Cell               | Content Cell                            |
